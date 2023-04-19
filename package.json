@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chornei-olha.github.io/creative-team-frontend/",
+  "homepage": "https://chornei-olha.github.io/Creative-team-frontend/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.2",
